@@ -1,1 +1,21 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KM RESEARCH CONSULT</title>
+</head>
+<body>
+  <h1>KM RESEARCH CONSULT</h1>
+  <p>Your trusted partner in research and academic support.</p>
+  <h2>Our Services</h2>
+  <ul>
+    <li>Research proposal guidance</li>
+    <li>Questionnaire development</li>
+    <li>Data analysis support</li>
+    <li>Academic editing and formatting</li>
+  </ul>
+  <h2>Contact Us</h2>
+  <p>Contact us to discuss your research needs.</p>
+</body>
+</html>
